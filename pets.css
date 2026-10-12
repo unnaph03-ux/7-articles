@@ -1,0 +1,23 @@
+html {
+    background-color: papayawhip;
+    font-family: "Noto Serif Display", serif;
+}
+
+ul {
+    margin: 0;
+}
+
+.nav-color {
+    background-color: lavenderblush;
+    padding: 10px;
+}
+
+.main {
+    background-color: lightcyan;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.site-footer {
+    padding: 10px;
+}
